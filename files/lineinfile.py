@@ -41,6 +41,7 @@ description:
     a file only. See the M(replace) module if you want to change
     multiple, similar lines; for other cases, see the M(copy) or
     M(template) modules.
+  - Some line strings will require special handling; please see all of the examples if you are having problems. Multiple levels of quoting may be required.
 version_added: "0.7"
 options:
   dest:
